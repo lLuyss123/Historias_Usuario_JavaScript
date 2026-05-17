@@ -38,7 +38,7 @@ for (const element of repetidos) {
 }
 
 
-console.log("MAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP");
+//usando el map
 
 const arreglo = new Map();
 arreglo.set("clave1", 1)
